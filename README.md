@@ -1,7 +1,10 @@
 
+
 <p align="center">
-  <img src="./banner.png" alt="AKRAMIISM - Cloud DevOps, SRE, DevSecOps and Cloud Security" width="100%" />
+  <img src="https://raw.githubusercontent.com/pathans9/pathans9/main/github%20banner.png" alt="AKRAMIISM - Cloud DevOps, SRE, DevSecOps and Cloud Security" width="100%" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Wasim Akram</h1>
 
